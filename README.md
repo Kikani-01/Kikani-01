@@ -20,58 +20,24 @@
 ---
 
 ### 🛠️ Tech Stack
-# 🛠️ My Skills
-
-## Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-
-## Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-
-## Frameworks, Platforms, and Libraries
-
-### Backends
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
-  
-### API Protocols
-![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat&logo=rest-api)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-
-### Frontends
+**Frontend:**  
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333-sky?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333-violet?logo=bootstrap&logoColor=white)
-  
-### Testing
-![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
-## Tools
+**Backend & Databases:**  
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 
-### Platforms
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean)
-
-### Infrastructure & DevOps
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=orange)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=orange)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
-![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
-![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 # 📊 My GitHub Stats
 
