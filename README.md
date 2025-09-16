@@ -12,12 +12,10 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I’m currently working on **Angular + Node.js projects**
-- 🌱 Learning **Cloud (AWS), React, and Advanced TypeScript**
 - 💡 I love solving problems and building scalable applications
 - ⚡ Fun fact: *Clean code = Happy developer*
 - 🖥️  See my portfolio at [My Portfolio](https://mansikikani.netlify.app/)
----
+  
 
 ### 🛠️ Tech Stack
 **Frontend:**  
@@ -38,15 +36,47 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
 
+# Socials
+
+<p align="left"> 
+  
+
+  <a href="https://www.linkedin.com/in/mansi-kikani-aa2447171/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+   <a href="https://stackoverflow.com/users/24861475/mansi-kikani" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+   <a href="https://www.x.com/mansikikani01" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.github.com/Kikani-01" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+</p>
 
 # 📊 My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Kikani-01">
-
-  <a href="http://www.github.com/Kikani-01"><img src="https://github-readme-stats.vercel.app/api?username=Kikani-      01&theme=algolia&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kikani-01's GitHub stats" /></a>
-  <a href="https://github.com/Kikani-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikani-01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kikani-01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kikani-01&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
