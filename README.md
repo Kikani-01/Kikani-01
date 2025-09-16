@@ -1,6 +1,13 @@
-# Hi there 👋, I'm Mansi
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Mansi Kikani
 
-🚀 Full Stack Developer | 💻 Angular • Node.js • MongoDB • MySQL | 🌐 Building modern web apps
+<h3 align="center">A Passionate Software Engineer from Surat, India</h3>
+
+<p align="center">
+  <i>
+    I am a skilled Full Stack Developer with extensive experience in the complete web development lifecycle, from concept to deployment. I create dynamic, scalable applications using a diverse range of technologies, specializing in both client- and server-side development. A lifelong learner, I am dedicated to expanding my knowledge and adopting emerging technologies. Currently, my focus is on delivering robust, end-to-end web solutions for optimal performance and user experience.
+  </i>
+</p>
+
 
 ---
 
