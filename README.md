@@ -38,13 +38,6 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
 
----
-### Badges
-
-<b>My Roadmap Stats</b>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/65d6b64e66cd6d03d2c88d8f?variant=dark)](https://roadmap.sh)
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Kikani-01"><img src="https://github-readme-stats.vercel.app/api?username=Kikani-01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kikani-01's GitHub stats" /></a>
